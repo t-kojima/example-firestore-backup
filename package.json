@@ -1,0 +1,11 @@
+{
+  "name": "example-firestore-backup",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:t-kojima/example-firestore-backup.git",
+  "author": "t-kojima <t-kojima@sonicgarden.jp>",
+  "license": "MIT",
+  "devDependencies": {
+    "firebase-tools": "^6.4.0"
+  }
+}
